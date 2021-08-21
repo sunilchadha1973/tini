@@ -12,6 +12,7 @@ Tini - A tiny but valid `init` for containers
 =============================================
 
 [![Build Status](https://travis-ci.org/krallin/tini.svg?branch=master)](https://travis-ci.org/krallin/tini)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsunilchadha1973%2Ftini.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsunilchadha1973%2Ftini?ref=badge_shield)
 
 Tini is the simplest `init` you could think of.
 
@@ -327,3 +328,7 @@ Special thanks to:
   [40]: https://github.com/danilobuerger
   [41]: https://github.com/datakurre
   [42]: https://github.com/nfnty/pkgbuilds/tree/master/tini/tini
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsunilchadha1973%2Ftini.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsunilchadha1973%2Ftini?ref=badge_large)
